@@ -80,13 +80,13 @@ JerrysCar.prototype.intentHandlers = {
         if (cmd.length > 0 ){
            
                 console.log ("path="+dirPath);
-                var username = 'covsdemo';
-                var password = 'covisint16';
+                var username = 'xxxx';
+                var password = 'xxxxx';
                 var auth = 'Basic ' + new Buffer(username + ':' + password).toString('base64');
                 console.log ('auth='+auth);
 
                 var options = {
-                  host: '104.198.23.95',
+                  host: '104.xxx.xx.95',
                   port: 80,
                   path: dirPath,
                   method: 'GET',
