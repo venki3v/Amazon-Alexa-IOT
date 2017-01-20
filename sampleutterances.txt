@@ -1,0 +1,11 @@
+JerrysCarIntent {start|startstop} the {car|sensor}
+JerrysCarIntent {start|startstop} my {car|sensor}
+JerrysCarIntent {stop|startstop} the {car|sensor}
+JerrysCarIntent {stop|startstop} my {car|sensor}
+JerrysCarIntent {lock|lockunlock} the {door|sensor}
+JerrysCarIntent {unlock|lockunlock} the {door|sensor}
+
+JerrysCarHelpIntent help me
+JerrysCarHelpIntent what can you do
+JerrysCarHelpIntent list of vehicle commands
+JerrysCarHelpIntent what can I ask you

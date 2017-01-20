@@ -1,0 +1,25 @@
+{
+ "intents": [
+   {
+     "intent": "JerrysCarIntent",
+     "slots": [
+     {
+          "name": "sensor",
+          "type": "LITERAL"
+        },
+        {
+          "name": "lockunlock",
+          "type": "LITERAL"
+        },
+        {
+          "name": "startstop",
+          "type": "LITERAL"
+        }
+      ]
+   },
+   {
+     "intent": "JerrysCarHelpIntent",
+     "slots": []
+   }
+ ]
+}
