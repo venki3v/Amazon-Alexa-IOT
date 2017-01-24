@@ -6,3 +6,5 @@ Make a src.zip(containing alexaskill.js and index.js and then upload to amazon l
 Create a skill in amazon delivery portal using intentschema and sampleutternances
 
 testhttpget.js is the business logic code to be included and can be ignored for customized calls
+
+api url can be modifed to call a different endpoint like particle.io or amazon iot.
